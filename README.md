@@ -1,3 +1,3 @@
-# Joshua Powell's Theme
+# Generic Jekyll Starter Theme
 
-The Jekyll theme for Joshua Powell's personal website.
+My personal Generic Jekyll Starter Theme.
